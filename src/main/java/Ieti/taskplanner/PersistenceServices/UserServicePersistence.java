@@ -1,10 +1,10 @@
-package Ieti.taskplanner.Services;
+package Ieti.taskplanner.PersistenceServices;
 
 import Ieti.taskplanner.Model.User;
 
 import java.util.List;
 
-public interface UserService {
+public interface UserServicePersistence {
     List<User> getAll();
 
     User getById(String userId);
