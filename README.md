@@ -1,5 +1,5 @@
 # Task_Planner_API_Lab06
-
+El contenedor se encuentra detenido, por favor en el momento de calificar hacer la solicitud para prenderlo
 http://containertpieti.eastus.azurecontainer.io:8080/users
 
 Código de Honor
